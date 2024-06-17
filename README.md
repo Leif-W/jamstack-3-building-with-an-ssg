@@ -12,7 +12,7 @@
 * `git status` - Show git status
 * `git log` - Show git log
 * `git diff` - Show local modifications
-* `git add *` - Add all locally modified files to git repo
+* `git add .` - Add all locally modified files to git repo
 * `git commit -m "message"` - Commit changes to local repo
 * `git fetch` - Update git repo from remote data
 * `git pull` - Update local git repo from newer remote
